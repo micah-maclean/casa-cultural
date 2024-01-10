@@ -1,1 +1,13 @@
+com\casaCultural\Atividade1\controller\model\Analise.class
+com\casaCultural\Atividade1\data\AnaliseEntity.class
+com\casaCultural\Atividade1\exception\ValidationHandler.class
+com\casaCultural\Atividade1\controller\model\Filme.class
+com\casaCultural\Atividade1\controller\FilmeController.class
+com\casaCultural\Atividade1\controller\AnaliseController.class
+com\casaCultural\Atividade1\service\FilmeService.class
+com\casaCultural\Atividade1\data\AnaliseRepository.class
+com\casaCultural\Atividade1\data\FilmeEntity.class
+com\casaCultural\Atividade1\service\AnaliseService.class
 com\casaCultural\Atividade1\Atividade1Application.class
+com\casaCultural\Atividade1\controller\MiscController.class
+com\casaCultural\Atividade1\data\FilmeRepository.class

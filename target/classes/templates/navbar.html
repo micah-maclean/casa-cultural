@@ -12,6 +12,10 @@
         <li class="nav-item">
           <a class="nav-link" th:href="@{/cadastro-filme}">Cadastrar filme</a>
         </li>
+        <li>
+          <a th:href="@{/setTheme}" class="btn btn-secondary" th:if="${lightTheme}">Dark Mode</a>
+          <a th:href="@{/setTheme}" class="btn btn-secondary" th:if="${!lightTheme}">Light Mode</a>
+        </li>
       </ul>
     </div>
   </div>
